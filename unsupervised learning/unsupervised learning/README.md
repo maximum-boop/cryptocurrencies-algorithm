@@ -2,7 +2,7 @@
 
 ## Background
 
-* Build a machine learning model to create an unsupervised learning algorithm using several clustering algorithm to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies.
+* Build a machine learning model to create an unsupervised learning algorithm to explore whether cryptocurrencies can be grouped together with other similar cryptocurrencies.
 * You are on the Advisory Services Team of a financial consultancy. One of your clients, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They’ve asked you to create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
 
 
